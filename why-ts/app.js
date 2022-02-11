@@ -9,9 +9,36 @@ var address = document.querySelector('#address');
 // user data
 var user = {};
 
+function fetchUser() {
+    return axios.get(url);
+}
+
+/**
+ * @typedef {object} Address
+ * @property {string} street
+ * @property {string} city
+ */
+
+/**
+ * @typedef {object} User
+ * @property {string} name
+ * @property {string} email
+ * @property {Address} address
+ */
+
+/**
+ * @return {Promise<User>}
+ */
+//console.log(fetchUser());
+fetchUser().then(function (response) {
+    console.log("response", response);
+    response.address.street;
+});
+
 function startApp() {
-  axios
-    .get(url)
+  //axios
+  //  .get(url)
+    fetchUser()
     .then(function (response) {
       console.log(response);
       user = response.data;
