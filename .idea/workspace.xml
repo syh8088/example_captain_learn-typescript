@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class-not/1_type-basic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-not/2_function-basic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-not/function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting-started/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting-started/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/3_interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/4_type_aliases.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/5_operator.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/1_todo/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/1_todo/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/1_todo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/1_todo/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-not/1_type-basic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/class-note/1_type-basic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-not/2_function-basic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/class-note/2_function-basic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-not/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/class-note/function.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +21,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-note/3_interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-note/4_type_aliases.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class-note/5_operator.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quiz/1_todo/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="-824">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -77,12 +103,15 @@
         <option value="$PROJECT_DIR$/class-not/2_function-basic.ts" />
         <option value="$PROJECT_DIR$/quiz/1_todo/tsconfig.json" />
         <option value="$PROJECT_DIR$/quiz/1_todo/src/index.ts" />
+        <option value="$PROJECT_DIR$/class-note/3_interface.ts" />
+        <option value="$PROJECT_DIR$/class-note/4_type_aliases.ts" />
+        <option value="$PROJECT_DIR$/class-note/5_operator.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="910" />
-    <option name="y" value="265" />
+    <option name="x" value="857" />
+    <option name="y" value="182" />
     <option name="width" value="1938" />
     <option name="height" value="861" />
   </component>
@@ -91,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,32 +131,18 @@
             <path>
               <item name="example_captain_learn-typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="example_captain_learn-typescript" type="462c0819:PsiDirectoryNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="example_captain_learn-typescript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="example_captain_learn-typescript" type="462c0819:PsiDirectoryNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name="1_todo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="example_captain_learn-typescript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="example_captain_learn-typescript" type="462c0819:PsiDirectoryNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name="1_todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="class-note" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -169,14 +185,16 @@
       <workItem from="1644582305286" duration="2144000" />
       <workItem from="1644627156043" duration="288000" />
       <workItem from="1644627574874" duration="8512000" />
+      <workItem from="1644714591633" duration="7325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11561000" />
+    <option name="totallyTimeSpent" value="18886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="265" width="1938" height="861" extended-state="0" />
+    <frame x="857" y="182" width="1938" height="861" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10526316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -190,7 +208,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27510315" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18982118" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -258,7 +276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class-not/1_type-basic.ts">
+    <entry file="file://$PROJECT_DIR$/class-note/1_type-basic.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -268,27 +286,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class-not/function.js">
+    <entry file="file://$PROJECT_DIR$/class-note/function.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class-not/2_function-basic.ts">
+    <entry file="file://$PROJECT_DIR$/class-note/2_function-basic.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/1_todo/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/1_todo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -299,10 +307,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/1_todo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/1_todo/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/quiz/1_todo/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="-824">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/3_interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/4_type_aliases.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/5_operator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
         </state>
       </provider>
     </entry>
