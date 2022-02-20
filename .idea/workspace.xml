@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/10_type-assertion.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/9_type-inference.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/2_address-book/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/2_address-book/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/2_address-book/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/2_address-book/tsconfig.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="214">
               <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class-note/9_type-inference.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class-note/10_type-assertion.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -93,12 +109,14 @@
         <option value="$PROJECT_DIR$/quiz/2_address-book/.eslintrc.js" />
         <option value="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" />
         <option value="$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts" />
+        <option value="$PROJECT_DIR$/class-note/9_type-inference.ts" />
+        <option value="$PROJECT_DIR$/class-note/10_type-assertion.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="759" />
-    <option name="y" value="171" />
+    <option name="x" value="1091" />
+    <option name="y" value="51" />
     <option name="width" value="1316" />
     <option name="height" value="754" />
   </component>
@@ -194,15 +212,15 @@
       <workItem from="1644714591633" duration="7583000" />
       <workItem from="1645192673520" duration="594000" />
       <workItem from="1645227850071" duration="9965000" />
-      <workItem from="1645318580179" duration="6636000" />
+      <workItem from="1645318580179" duration="9815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36339000" />
+    <option name="totallyTimeSpent" value="39518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="759" y="171" width="1316" height="754" extended-state="0" />
+    <frame x="1091" y="51" width="1316" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19561815" />
@@ -427,6 +445,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/9_type-inference.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11049" column="4" selection-start-line="11049" selection-start-column="4" selection-end-line="11049" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/10_type-assertion.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
