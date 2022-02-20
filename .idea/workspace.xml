@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class-note/10_type-assertion.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-note/9_type-inference.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -115,7 +111,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1091" />
+    <option name="x" value="282" />
     <option name="y" value="51" />
     <option name="width" value="1316" />
     <option name="height" value="754" />
@@ -212,15 +208,15 @@
       <workItem from="1644714591633" duration="7583000" />
       <workItem from="1645192673520" duration="594000" />
       <workItem from="1645227850071" duration="9965000" />
-      <workItem from="1645318580179" duration="9815000" />
+      <workItem from="1645318580179" duration="10217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39518000" />
+    <option name="totallyTimeSpent" value="39920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1091" y="51" width="1316" height="754" extended-state="0" />
+    <frame x="282" y="51" width="1316" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19561815" />
