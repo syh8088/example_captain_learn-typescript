@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="" />
+    <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class-note/11_type-guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/12_type-compatibility.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/ts-modules/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-note/ts-modules/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/2_address-book/src/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,56 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="114">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class-note/9_type-inference.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class-note/10_type-assertion.ts">
+        <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/types.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="23" selection-start-column="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts_">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz/2_address-book/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class-note/7_class.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="10" />
+              <caret column="31" selection-start-column="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -103,24 +75,30 @@
         <option value="$PROJECT_DIR$/class-note/8_generics.ts" />
         <option value="$PROJECT_DIR$/quiz/2_address-book/tsconfig.json" />
         <option value="$PROJECT_DIR$/quiz/2_address-book/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" />
         <option value="$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts" />
         <option value="$PROJECT_DIR$/class-note/9_type-inference.ts" />
         <option value="$PROJECT_DIR$/class-note/10_type-assertion.ts" />
+        <option value="$PROJECT_DIR$/class-note/11_type-guard.ts" />
+        <option value="$PROJECT_DIR$/class-note/12_type-compatibility.ts" />
+        <option value="$PROJECT_DIR$/class-note/ts-modules/types.ts" />
+        <option value="$PROJECT_DIR$/class-note/ts-modules/app.ts" />
+        <option value="$PROJECT_DIR$/quiz/2_address-book/src/index.ts" />
+        <option value="$PROJECT_DIR$/quiz/2_address-book/src/types.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="282" />
-    <option name="y" value="51" />
-    <option name="width" value="1316" />
-    <option name="height" value="754" />
+    <option name="x" value="919" />
+    <option name="y" value="159" />
+    <option name="width" value="1267" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +148,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\syh80\workspace\GitHub\example_captain_learn-typescript\quiz\2_address-book\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -209,17 +186,20 @@
       <workItem from="1645192673520" duration="594000" />
       <workItem from="1645227850071" duration="9965000" />
       <workItem from="1645318580179" duration="10217000" />
+      <workItem from="1645347902570" duration="594000" />
+      <workItem from="1645792628532" duration="1000" />
+      <workItem from="1645834149174" duration="5041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39920000" />
+    <option name="totallyTimeSpent" value="45556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="282" y="51" width="1316" height="754" extended-state="0" />
+    <frame x="859" y="189" width="1267" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19561815" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,6 +396,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11049" column="4" selection-start-line="11049" selection-start-column="4" selection-end-line="11049" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts_">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quiz/2_address-book/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -430,38 +424,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index_origin.ts_">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class-note/9_type-inference.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11049" column="4" selection-start-line="11049" selection-start-column="4" selection-end-line="11049" selection-end-column="4" />
+        <state relative-caret-position="646">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class-note/10_type-assertion.ts">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/11_type-guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/12_type-compatibility.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/ts-modules/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class-note/ts-modules/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" selection-start-column="14" selection-end-column="23" />
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/2_address-book/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
