@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7294fa-e65a-4ce8-924b-0970491e4378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class-note/13_utility-type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-note/14_mapped-type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/arrow-fucntion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/app_origin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/src/app.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -54,19 +49,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/es6/arrow-fucntion.js">
+        <entry file="file://$PROJECT_DIR$/project/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="277">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/package.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/.eslintrc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="353">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -121,17 +116,18 @@
         <option value="$PROJECT_DIR$/class-note/14_mapped-type.ts" />
         <option value="$PROJECT_DIR$/project/app.js" />
         <option value="$PROJECT_DIR$/project/src/app.js" />
-        <option value="$PROJECT_DIR$/project/package.json" />
         <option value="$PROJECT_DIR$/project/README.md" />
         <option value="$PROJECT_DIR$/project/tsconfig.json" />
         <option value="$PROJECT_DIR$/es6/arrow-fucntion.js" />
         <option value="$PROJECT_DIR$/project/src/app.ts" />
+        <option value="$PROJECT_DIR$/project/package.json" />
+        <option value="$PROJECT_DIR$/project/.eslintrc.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="322" />
-    <option name="y" value="197" />
+    <option name="x" value="705" />
+    <option name="y" value="52" />
     <option name="width" value="1365" />
     <option name="height" value="1038" />
   </component>
@@ -151,7 +147,7 @@
             <path>
               <item name="example_captain_learn-typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="example_captain_learn-typescript" type="462c0819:PsiDirectoryNode" />
-              <item name="es6" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,15 +212,15 @@
       <workItem from="1645834149174" duration="6477000" />
       <workItem from="1646005471999" duration="5000" />
       <workItem from="1646398426619" duration="2636000" />
-      <workItem from="1646441558878" duration="14233000" />
+      <workItem from="1646441558878" duration="15245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63866000" />
+    <option name="totallyTimeSpent" value="64878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="158" width="1092" height="830" extended-state="0" />
+    <frame x="564" y="42" width="1092" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28056872" />
@@ -534,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/built/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4470">
@@ -565,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6/arrow-fucntion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quiz/2_address-book/node_modules/typescript/lib/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -579,10 +561,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/es6/arrow-fucntion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project/src/app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
